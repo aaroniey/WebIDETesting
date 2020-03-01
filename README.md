@@ -1,2 +1,0 @@
-# WebIDETesting
-Created with CodeSandbox

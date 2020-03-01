@@ -1,0 +1,13 @@
+.Dashboard {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  border-color: darkred;
+  box-shadow: 0px 0px 3px 3px grey inset;
+}
+
+.Dashboard-Content {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
